@@ -1,6 +1,6 @@
-# myapp
+# Meu Aplicativo
 
-A new Flutter project.
+Programa feito com objetivo de atividade no curso Talento Tech.
 
 ## Getting Started
 
